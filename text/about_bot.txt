@@ -1,0 +1,10 @@
+*MuBot (@muhackbot)*
+_Official MuHack's Bot_
+[Github Page](https://github.com/yandieg/MuBot)
+
+Bot has been programmed in Python with python's library [python-telegram-bot](https://github.com/python-telegram-bot) and it is hosted on [PythonAnywhere](https://www.pythonanywhere.com).
+
+Developed by @YanDieg
+[Personal website](yanezdiegoparolin.it)
+[GitHub Profile](https://github.com/yandieg/)
+

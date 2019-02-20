@@ -1,0 +1,13 @@
+*MuBot's mini-guide*
+
+Click /start to start the BOT (or to restart), it will show you the welcome message and the list of available option.
+Look your keyboard, more precisely to the right of "Write a message ...", there will be an icon containing four filled squares, click on it and will be show the option.
+if you digit /menu you will force the bot to show the options.
+
+There is four options:
+- `Projects` to show Project developed by the associates at MuHack
+- `Events` to show MuHack's future events
+- `Help us` to show a list of tasks, we ask all associates to help MuHack through these small tasks (like leafleting, advertising ...)
+- `Info` to get information about MuHack (website, meeting place, fb page ...)
+
+If you want more information about the bot, how it has been developed, who developed it ... digit /about\_bot
