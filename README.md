@@ -71,7 +71,7 @@ Create a new account, and let start with [Setup steps](#setup)!
 In this section you will go to analyze the code of this bot. You will see how to modify it and adapt it to your needs.
 ### Explanation of the code
 It is the most difficult explanation ...
-
+I put it in a guide. [Click here](/manual/guide.md) to read it or go to the directory "manual" and open the file "guide.md"
 #### Library
 #### Google API implementation
 #### Emoji Use
