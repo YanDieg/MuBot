@@ -64,9 +64,14 @@ As before but for "Sheet API"
 ### Host
 You need to host your bot on server, because it will be running continuously. I suggest to use PythonAnywhere service ... IT IS FREE!
 #### PythonAnywhere
-
+[PythonAnywhere](https://www.pythonanywhere.com/) is a service that allows you to host, run and code Python in the cloud.
+The dev chose it because it is free (there is a free plan, it is enough to host your Telegram Bot), safe and handy.
+Create a new account, and let start with [Setup steps](#setup)!
 ## Setup
+In this section you will go to analyze the code of this bot. You will see how to modify it and adapt it to your needs.
 ### Explanation of the code
+It is the most difficult explanation ...
+
 #### Library
 #### Google API implementation
 #### Emoji Use
